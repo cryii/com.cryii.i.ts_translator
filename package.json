@@ -1,0 +1,15 @@
+{
+    "name": "com.cryii.ts-translator",
+    "displayName": "CR-Ts Translator",
+    "version": "1.0.0",
+    "description": "com.cryii.ts-translator",
+    "unity": "2022.3",
+    "keywords": [
+        "Ts Translator"
+    ],
+    "author": {
+        "name": "cryii",
+        "email": "icryingcat@gmail.com"
+    },
+    "license": "MIT"
+}
